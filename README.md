@@ -6,4 +6,4 @@
 
 ## Tutorials
 
-<a href="https://www.youtube.com/watch?v=9eads7E2K-c">App Building for Beginners :: Basic Tip Calculator iPhone App Using Swift with Xcode</a>
+<a target="_blank" href="https://www.youtube.com/watch?v=9eads7E2K-c">App Building for Beginners :: Basic Tip Calculator iPhone App Using Swift with Xcode</a>
